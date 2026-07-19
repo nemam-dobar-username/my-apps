@@ -1,13 +1,13 @@
 manifestVersion: 1
 id: sasa-calibre
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+name: Calibre
+tagline: Calibre in dicker
+icon: https://www.svgrepo.com/download/221558/ebook.svg
 category: Development
 version: "1.0.0"
 port: 4041
 description: >-
-  Add your app's description here.
+  Calibre
 
 
   You can also add newlines!
